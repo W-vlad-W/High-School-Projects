@@ -1,0 +1,21 @@
+Meno: Patskan, Vladyslav
+Spolupráca: 
+Použité zdroje: 
+Čas potrebný na vypracovanie domácej úlohy: 
+15-20 minut
+Podrobný popis je dostupný na: https://github.com/ianmagyar/introduction-to-python/blob/master/homeworks/homework01.md
+
+Popis nápadu na aplikáciu/softvér:
+
+K tomu, aby som takéto niečo vedel naprogramovať, musím sa naučiť:
+ 1. Vytvorenie jednoduchého projektu od návrhu až po implementáciu(buď to hra alebo niečo iné).
+ 2. Ovládanie princípov objektovo-orientovaného programovania (OOP).
+ 3. Osvojenie si práce s SQL databázami a prepojenie ich s aplikáciami.
+ 4. Zlepšenie schopnosti ladenia a testovania kódu na zabezpečenie jeho spoľahlivosti.
+ 5. Naučiť sa efektívne spracovávať vstup a výstup z rôznych zdrojov (súbory, databázy, API).
+ 6. Efektívne využívanie podmienok a logických operátorov v programovaní.
+ 7. Získanie nových vedomostí o tvorbe webových aplikácií a ich backendovej logike.
+ 8. Pochopenie princípov DevOps a automatizácie vývoja.
+ 9. Implementácia základných sieťových protokolov a práca so socketmi.
+10. Schopnosť pracovať s verziovacími nástrojmi ako Git a GitHub.
+
